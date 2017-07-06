@@ -26,7 +26,7 @@ public class KmbApi {
 	
 	public static final int NO_DATA = -1; 
 	
-	public static final String etaserver = "http://etav2.kmb.hk/";
+	public static final String etaserver = "http://etav3.kmb.hk/";
 	
 	public static final String etadatafeed = "http://etadatafeed.kmb.hk:1933/";
 	
